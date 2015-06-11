@@ -52,21 +52,21 @@ typedef uint64_t            uintmax_t;
 ////////////////////////////////////////////////////////////////////////////////
 /// Defines ////////////////////////////////////////////////////////////////////
 
-#define	INT8_MAX			(127i8)
-#define	INT8_MIN			(-INT8_MAX - 1)
-#define	UINT8_MAX			(0xFFui8)
+#define	INT8_MAX            (127i8)
+#define	INT8_MIN            (-INT8_MAX - 1)
+#define	UINT8_MAX           (0xFFui8)
 
-#define	INT16_MAX			(32767i16)
-#define	INT16_MIN			(-INT16_MAX - 1)
-#define	UINT16_MAX			(0xFFFFui16)
+#define	INT16_MAX           (32767i16)
+#define	INT16_MIN           (-INT16_MAX - 1)
+#define	UINT16_MAX          (0xFFFFui16)
 
-#define	INT32_MAX			(2147483647i32)
-#define	INT32_MIN			(-INT32_MAX - 1)
-#define	UINT32_MAX			(0xFFFFFFFFui32)
+#define	INT32_MAX           (2147483647i32)
+#define	INT32_MIN           (-INT32_MAX - 1)
+#define	UINT32_MAX          (0xFFFFFFFFui32)
 
-#define	INT64_MAX			(9223372036854775807i64)
-#define	INT64_MIN			(-INT64_MAX - 1)
-#define	UINT64_MAX			(0xFFFFFFFFFFFFFFFFui64)
+#define	INT64_MAX           (9223372036854775807i64)
+#define	INT64_MIN           (-INT64_MAX - 1)
+#define	UINT64_MAX          (0xFFFFFFFFFFFFFFFFui64)
 
 ////////////////////////////////////////////////////////////////////////////////
 /// Size type //////////////////////////////////////////////////////////////////
