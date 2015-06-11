@@ -47,6 +47,7 @@ main(int argc, char ** pp_argv)
     printf("INT64_MIN:\t%lli\n",    INT64_MIN);
     printf("UINT64_MAX:\t%llu\n",   UINT64_MAX);
     
+    printf("Press ENTER to continue...");
     getchar();
 
     return 0;
